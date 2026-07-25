@@ -45,7 +45,7 @@ Computer Systems
 
 ### :0 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,verilog,linux,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,asm,cpp,java,py,js,ts,verilog,linux,git,vscode)](https://skillicons.dev)
 
 ---
 
