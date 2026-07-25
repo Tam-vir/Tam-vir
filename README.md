@@ -62,13 +62,10 @@ Computer Systems
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tam-vir&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Tam-vir&show_icons=true&include_all_commits=true&theme=radical)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tam-vir&hide_border=true&theme=radical)
-
+<img src="https://github-stats-extended.vercel.app/api?username=Tam-vir&show_icons=true&include_all_commits=true&theme=radical" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tam-vir&hide_border=true&theme=radical" width="49%" />
+<br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical" width="45%" />
 </div>
 
 ---
