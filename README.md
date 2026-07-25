@@ -19,7 +19,7 @@ details that make the two actually talk to each other.
 
 ---
 
-### ;-; Currently Building
+### 🔧 Currently Building
 
 | Project | What it is |
 |---|---|
@@ -30,7 +30,7 @@ details that make the two actually talk to each other.
 
 ---
 
-### :> Things I Like Building
+### 🧠 Things I Like Building
 
 ```text
 Computer Systems
@@ -43,13 +43,13 @@ Computer Systems
 
 ---
 
-### :0 Languages & Tools
+### 🛠️ Languages & Tools
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=c,cpp,assembly,java,py,js,ts,verilog,linux,git,vscode)](https://github.com/syvixor/skills-icons)
 
 ---
 
-### :p Fun Facts
+### 🤔 Fun Facts
 
 - I spend an unreasonable amount of time wondering how things work.
 - Most of my projects begin with *"this shouldn't take too long."* They almost never end that way.
@@ -59,11 +59,17 @@ Computer Systems
 
 ---
 
-### /\\/ GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tam-vir&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Tam-vir&show_icons=true&include_all_commits=true&theme=radical)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tam-vir&hide_border=true)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Tam-vir&layout=donut&langs_count=5&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tam-vir&hide_border=true&theme=radical)
+
+</div>
 
 ---
 
