@@ -45,7 +45,7 @@ Computer Systems
 
 ### :0 Languages & Tools
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=tc,asm,cpp,java,py,js,ts,verilog,linux,git,vscode)](https://github.com/syvixor/skills-icons)
+[![My Skills](https://skills.syvixor.com/api/icons?i=c,cpp,assembly,java,py,js,ts,verilog,linux,git,vscode)](https://github.com/syvixor/skills-icons)
 
 ---
 
