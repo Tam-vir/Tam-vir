@@ -19,7 +19,7 @@ details that make the two actually talk to each other.
 
 ---
 
-### 🔧 Currently Building
+### ;-; Currently Building
 
 | Project | What it is |
 |---|---|
@@ -30,7 +30,7 @@ details that make the two actually talk to each other.
 
 ---
 
-### 🧠 Things I Like Building
+### :> Things I Like Building
 
 ```text
 Computer Systems
@@ -43,13 +43,13 @@ Computer Systems
 
 ---
 
-### 🛠️ Languages & Tools
+### :0 Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,verilog,linux,git,vscode)](https://skillicons.dev)
 
 ---
 
-### 🤔 Fun Facts
+### :p Fun Facts
 
 - I spend an unreasonable amount of time wondering how things work.
 - Most of my projects begin with *"this shouldn't take too long."* They almost never end that way.
@@ -59,7 +59,7 @@ Computer Systems
 
 ---
 
-### 📊 GitHub Stats
+### /\/ GitHub Stats
 
 ![Tamvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tam-vir&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tam-vir&layout=compact&hide_border=true)
