@@ -59,7 +59,7 @@ Computer Systems
 
 ---
 
-### /\/ GitHub Stats
+### /\\/ GitHub Stats
 
 ![Tamvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tam-vir&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tam-vir&layout=compact&hide_border=true)
